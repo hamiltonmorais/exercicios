@@ -12,10 +12,11 @@
 }
 
 body {
-  
+  background-image: url(/assets/img/wallpaper2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0;
   padding: 0;
-  background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
