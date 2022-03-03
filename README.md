@@ -1,2 +1,3 @@
-# exercicios
-Exercicios gerais.
+# Formulário. 
+
+Utilizei array para armazenar informações dos usuários. 
